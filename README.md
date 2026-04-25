@@ -57,10 +57,11 @@ The simplest form almost always wins. Not the cleverest. Not the most "powerful.
 
 ### 🤖 Building Now
 
-Building AI agents — mostly by prompting the oracle and listening.
+Building AI agents. The whole job, most days:
 
-Twenty years taught me *how* to build.
-The agents now teach me *what* — and sometimes *whether*.
+> **Pray** in earnest.  
+> **Listen** for the oracle.  
+> **Interpret** the scripture.
 
 ---
 
