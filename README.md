@@ -62,6 +62,33 @@ AI agent products that plan, use tools, recover from their own mistakes, and act
 Twenty years of code taught me *how* things should be built.
 The next chapter is teaching agents to build them with me.
 
+---
+
+### ⏱️ Lately at the Workbench
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kid7st&theme=github-compact&hide_border=true&area=true&radius=8" alt="kid7st's contribution activity graph" width="100%" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=kid7st&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="kid7st's contribution streak" />
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kid7st/kid7st/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kid7st/kid7st/output/github-snake.svg" />
+  <img alt="kid7st's contribution snake" src="https://raw.githubusercontent.com/kid7st/kid7st/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 —  *open source work starts here*  —
