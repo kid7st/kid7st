@@ -12,33 +12,25 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
-
-### 🕰️ Then
-
-```
+<th width="50%" align="center">🕰️ &nbsp; Then  &nbsp; <sub><i>2004 — 2023</i></sub></th>
+<th width="50%" align="center">⚡ &nbsp; Now  &nbsp; <sub><i>2024 —</i></sub></th>
+</tr>
+<tr>
+<td valign="top" align="center">
+<pre>
 vim · emacs · IDEs
 keyboards & coffee
 hand-crafted lines
-```
-
-*2004 — 2023*
-
+</pre>
 </td>
-<td width="50%" valign="top" align="center">
-
-### ⚡ Now
-
-```
-aider → cursor →
-claude code →
-Pi Coding Agent
-```
-
-*2024 —*
-
+<td valign="top" align="center">
+<pre>
+aider → cursor → claude code
+            ↓
+      Pi Coding Agent
+</pre>
 </td>
 </tr>
 </table>
