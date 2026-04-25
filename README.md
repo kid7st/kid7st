@@ -1,77 +1,53 @@
 <div align="center">
 
-# Hi, I'm kid7st 👋
+# kid7st
 
-**AI Agent Developer · Open Source Builder · LLM Enthusiast**
+### 20 years writing code · 1 year not writing code
 
-*Building intelligent systems that think, act, and collaborate*
-
-[![GitHub followers](https://img.shields.io/github/followers/kid7st?label=Follow&style=social)](https://github.com/kid7st)
+*From hand-crafted lines to vibe-coded agents*
 
 </div>
 
 ---
 
-## About Me
+## The Story So Far
 
-I'm an AI Agent developer focused on building autonomous systems powered by large language models. I'm passionate about pushing the boundaries of what agents can do — from tool use and planning to multi-agent collaboration.
+I've been writing code for 20 years. Touched a lot of languages, a lot of paradigms — the kind of programmer the kids today would call "old school."
 
-- 🔭 Currently building: AI agents and agentic workflows
-- 🌱 Exploring: Multi-agent systems, RAG pipelines, LLM reasoning
-- 🤝 Open to collaborate on: Agent frameworks, AI tooling, open source LLM projects
-- 💬 Ask me about: LLM APIs, agent orchestration, prompt engineering
-
----
-
-## Tech Stack
-
-**AI / LLM**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat&logoColor=white)
-
-**Infrastructure & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-
-**Agent Ecosystem**
-
-- Orchestration: LangGraph · CrewAI · AutoGen
-- Memory & RAG: Chroma · Pinecone · pgvector
-- Observability: LangSmith · Arize Phoenix
-
----
-
-## Current Focus
+Then AI coding agents showed up, and I haven't really *written* code in over a year.
 
 ```
-Agent Development Loop:
-  Plan  →  Act  →  Observe  →  Reflect  →  repeat
+aider  →  cursor  →  claude code  →  Pi Coding Agent
 ```
 
-Building agents that can break down complex tasks, use tools reliably, and recover gracefully from failures.
+These days I vibe-code with **Pi Coding Agent** daily, and build AI agent products on top of **Pi Agent Core**.
 
 ---
 
-## GitHub Stats
+## What Hasn't Changed
 
-<div align="center">
+The tools changed. The fundamentals didn't.
 
-![kid7st's GitHub stats](https://github-readme-stats.vercel.app/api?username=kid7st&show_icons=true&theme=dark&hide_border=true&count_private=true)
+- **Software engineering principles still matter.** AI doesn't replace them — it amplifies them. Bad design vibe-coded faster is still bad design.
+- **A program is a sculpture. So is a product.** Every great design is a *discovery*, not an invention — the optimal form was already there, hiding in the problem.
+- **The optimal form is almost always the simplest one.** Not the cleverest. Not the most "powerful." Just the one that fits.
+- **The craft is still iteration.** The agent types; you still do the seeing. Carve, observe, refine, carve again — until what's left is exactly what was always supposed to be there.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid7st&layout=compact&theme=dark&hide_border=true)
+---
 
-</div>
+## What I'm Building
+
+AI agent products — the interesting kind. Agents that plan, use tools, recover from their own mistakes, and collaborate with other agents (and humans).
+
+Twenty years of code taught me how things should be built. The next chapter is teaching agents to build them with me.
+
+Open source work starts here.
 
 ---
 
 <div align="center">
 
-*"The best way to build an intelligent agent is to give it good tools and get out of the way."*
+*Programs and products are sculptures.*  
+*The work is finding the simplest form that was already there.*
 
 </div>
