@@ -20,7 +20,7 @@
 <tr>
 <td valign="top" align="center">
 <pre>
-vim · emacs · IDEs
+vim · VS Code · Intellij IDEA
 keyboards & coffee
 hand-crafted lines
 </pre>
@@ -30,6 +30,8 @@ hand-crafted lines
 aider → cursor → claude code
             ↓
       Pi Coding Agent
+            ↓
+         FastAgent
 </pre>
 </td>
 </tr>
@@ -37,7 +39,7 @@ aider → cursor → claude code
 
 <div align="center">
 
-Daily driver: **Pi Coding Agent**  ·  Building on: **Pi Agent Core**
+Daily driver: **Pi Coding Agent** and **FastAgent**  ·  Building on: **Pi Agent Core** and **FastAgent** 
 
 </div>
 
