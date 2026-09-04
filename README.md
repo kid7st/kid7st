@@ -4,44 +4,32 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=20+years+writing+code.;1+year+not+writing+code.;Sculpting+agents+now." alt="Typing intro" />
 
-![coding](https://img.shields.io/badge/coding-20_years-58A6FF?style=for-the-badge)
-![vibe coding](https://img.shields.io/badge/vibe_coding-1_year-F89F1B?style=for-the-badge)
-![agents](https://img.shields.io/badge/agents-shipping-3FB950?style=for-the-badge)
+[![X](https://img.shields.io/badge/X-%40kid7st-000?logo=x)](https://x.com/kid7st)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yangshi21-0A66C2?logo=linkedin)](https://www.linkedin.com/in/yangshi21)
+[![FastAgent](https://img.shields.io/badge/fastagent.sh-docs-0b7285)](https://fastagent.sh)
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<th width="50%" align="center">🕰️ &nbsp; Then  &nbsp; <sub><i>2004 — 2023</i></sub></th>
-<th width="50%" align="center">⚡ &nbsp; Now  &nbsp; <sub><i>2024 —</i></sub></th>
-</tr>
-<tr>
-<td valign="top" align="center">
-<pre>
-vim · VS Code · Intellij IDEA
-keyboards & coffee
-hand-crafted lines
-</pre>
-</td>
-<td valign="top" align="center">
-<pre>
-aider → cursor → claude code
-            ↓
-      Pi Coding Agent
-            ↓
-         FastAgent
-</pre>
-</td>
-</tr>
-</table>
+### Building
 
-<div align="center">
+**Building an agent is the easy half now. Running it as a service is the hard half.**
 
-Daily driver: **Pi Coding Agent** and **FastAgent**  ·  Building on: **Pi Agent Core** and **FastAgent** 
+| | |
+|---|---|
+| [**FastAgent**](https://github.com/fastagent-sh/fastagent) | Agent as a Service. An `AGENTS.md` + `skills/` + `tools/` directory becomes a live service: Telegram, Feishu, GitHub, HTTP, or embedded in your app. Open source, built on [pi](https://pi.dev). |
+| **duang** | Group chat for people and agents — share an agent like a contact, not install it like an app. Design docs stage. |
 
-</div>
+### Agents in production
+
+Three SaaS run on FastAgent. They are the proof, and the source of the numbers I post.
+
+| | |
+|---|---|
+| [ClickFrom.AI](https://www.clickfrom.ai) | Shopify GEO — get stores recommended by ChatGPT, Perplexity, Gemini |
+| [AmazonSEO.ai](https://www.amazonseo.ai) | Amazon listing optimization |
+| [Catchup](https://catchup.me) | Link in bio that sells, built by a Bio Agent |
 
 ---
 
@@ -57,43 +45,8 @@ The simplest form almost always wins. Not the cleverest. Not the most "powerful.
 
 ---
 
-### 🤖 Building Now
-
-Building AI agents. The whole job, most days:
-
-> **Pray** in earnest.  
-> **Listen** for the oracle.  
-> **Interpret** the scripture.
-
----
-
-### ⏱️ Lately at the Workbench
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kid7st&theme=github-compact&hide_border=true&area=true&radius=8" alt="kid7st's contribution activity graph" width="100%" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=kid7st&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="kid7st's contribution streak" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kid7st/kid7st/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kid7st/kid7st/output/github-snake.svg" />
-  <img alt="kid7st's contribution snake" src="https://raw.githubusercontent.com/kid7st/kid7st/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-—  *open source work starts here*  —
+Daily driver: **[pi](https://pi.dev)** · Follow the build on **[X](https://x.com/kid7st)**
 
 </div>
